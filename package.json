@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "colorts": "^0.1.63",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "klaw": "^4.1.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.4"
+  },
+  "devDependencies": {
+    "@types/klaw": "^3.0.3"
+  }
+}
